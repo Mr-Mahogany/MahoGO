@@ -1,0 +1,5 @@
+This is where I got most of the images I used in textures; I tried to credit everyone I remembered, but hey, I think this should be adquate.
+
+Default Blank Go Board : https://commons.wikimedia.org/wiki/File:Blank_Go_board.svg
+Default White and Black Stones: https://en.wikipedia.org/wiki/File:Realistic_Go_Stone.svg & https://en.wikipedia.org/wiki/File:Realistic_White_Go_Stone.svg
+MahoGO "Logo" (Text on the menu): https://logomakr.com
